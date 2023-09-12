@@ -1,1 +1,1 @@
-Created a new directory called git in your repo.
+Created a new directory called git in your repo
